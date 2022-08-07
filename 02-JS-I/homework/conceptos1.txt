@@ -1,0 +1,45 @@
+
+Variables
+
+En un lenguaje de programación, una variable es un elemento que sirve 
+para guardar un valor que vas a necesitar en la creación de un proyecto, escribes el tipo 
+de variable que vas a utilizar y después el nombre de la variable, esta ocupa un espacio 
+en la memoria de tu computadora y puede cambiar o no dependiendo del tipo que sea.
+
+
+Strings
+
+Un String es un bloque que cuenta con un texto, el cual está guardado
+en una variable, este va escrito con comillas al principio y al final
+
+
+Funciones (argumentos, return)
+
+Las funciones son muy importantes para darle un uso a nuestras
+variables, ya que si las usamos podemos sacarle provecho a nuestras 
+variables haciendo operaciones, cambiandolas, y muchas otras cosas
+que requiera el proyecto que estemos haciendo
+
+En las funciones podemos agregar argumentos, los argumentos son variables
+dentro de parentesis que van después del nombre de la función, podemos
+hacer que varie la ejecución de nuestras funciones gracias a estos
+
+Al usar funciones podemos usar return como una manera de arrojar el 
+resultado de la operación que se haga dentro de nuestra función, alguna
+operación matematica, palabra clave, etc
+
+
+Declaraciones (if)
+
+Una declaración if funciona como una sentencia condicional, esto quiere decir
+que debe suceder algo siempre y cuando se cumpla una condición.
+
+
+Valores booleanos (true, false)
+
+Los valores booleanos se manejan de modo que su valor puede ser verdadero
+o falso, este valor puede cambiar un modo a otro dependiendo de las instrucciones
+que le demos en nuestro proyecto, al cambiar su valor puede o no 
+puede realizar ciertas instrucciones.
+
+
