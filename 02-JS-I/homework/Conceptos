@@ -1,4 +1,3 @@
-
 Variables
 
 En un lenguaje de programación, una variable es un elemento que sirve 
@@ -41,5 +40,3 @@ Los valores booleanos se manejan de modo que su valor puede ser verdadero
 o falso, este valor puede cambiar un modo a otro dependiendo de las instrucciones
 que le demos en nuestro proyecto, al cambiar su valor puede o no 
 puede realizar ciertas instrucciones.
-
-
